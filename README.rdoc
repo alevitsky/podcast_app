@@ -1,2 +1,2 @@
 == podcast_app
-Visit test version: https://podcast-app-andlev.c9users.io
+Visit test version: https://desolate-eyrie-38739.herokuapp.com
